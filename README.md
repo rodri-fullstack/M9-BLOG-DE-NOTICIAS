@@ -1,5 +1,21 @@
 # Blog Noticias - Proyecto Final Módulo 9
 
+## Objetivos de la aplicación
+
+- Implementar un blog de noticias full stack.
+- Permitir registro e inicio de sesión de usuarios.
+- Permitir la publicación de noticias.
+- Permitir comentarios en cada noticia.
+- Integrar React, Node.js, Express y PostgreSQL en una sola aplicación.
+
+## Autor
+
+**Rodrigo Valderrama Troncoso**
+
+## URL del repositorio GitHub
+
+[Repositorio del proyecto](https://github.com/rodri-fullstack/M9-BLOG-DE-NOTICIAS)
+
 Aplicación web full stack de un **blog de noticias** desarrollada como proyecto final del Módulo 9.  
 Permite el **registro e inicio de sesión de usuarios**, la **publicación de noticias**, la visualización del **detalle de cada noticia** y la creación de **comentarios** asociados.
 
